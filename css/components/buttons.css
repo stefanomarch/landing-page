@@ -1,0 +1,43 @@
+/* Your button CSS file */
+.btn-medium{
+  width:6rem;
+  padding: .9rem 1.3rem;
+  /*border: 1px solid rgb(40, 40, 35);*/
+  border-radius:2rem;
+}
+
+.btn-treehouse{
+  width:4rem;
+  padding: 1rem 2rem;
+  border-radius:2px;
+}
+.btn-yours{
+  width:4rem;
+  padding: .8rem 1.4rem;
+  border-radius:.3rem;
+  box-shadow: 1px 1px 4px rgb(40, 40, 35);
+}
+
+
+.bg-light{
+  color: rgb(40, 40, 35);
+  background-color: rgb(229, 229, 110);
+}
+.bg-light:hover{
+  opacity: 0.85;
+}
+
+.bg-dark{
+  background-color: rgb(56, 92, 100);;
+  color: #fff;
+}
+.bg-dark:hover{
+  opacity: 0.85;
+}
+.bg-fluo{
+  background-color: #19E68C;
+  color: white;
+}
+.bg-fluo:hover{
+  opacity: 0.85;
+}

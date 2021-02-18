@@ -1,0 +1,6 @@
+.container{
+  width: 1200px;
+  margin: auto auto;
+  z-index: 100;
+  padding: 3rem;
+}
